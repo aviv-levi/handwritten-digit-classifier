@@ -1,7 +1,5 @@
 # Handwritten digits classifier
-a tkinter python windows application, </br>
-using CNN model by tensorflow, </br>
-trained and tested using MNIST dataset.
+This is a learning project where I implemented a Convolutional Neural Network (CNN) to classify handwritten digits using the MNIST dataset.
 
 
 ## Demo
